@@ -1,0 +1,27 @@
+languageCode = "en"
+languageName = "English 🇬🇧"
+languageDirection = "ltr"
+weight = 1
+
+title = "vguardiano's corner"
+copyright = "by Vinícius Guardiano Souza"
+
+[params]
+  dateFormat = "2 de Janeiro 2006"
+
+  mainSections = ["samples"]
+  description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+
+[params.author]
+  name = "Vinícius Guardiano Souza"
+  image = "img/pic5.jpg"
+  headline = "Ph.D. student in Mathematics, 24 years old :brazil:"
+  bio = "This is an example author bio, and although there's a stock photo of a dog here, this article was actually created by a human. :dog:"
+  links = [
+    { x-twitter = "https://twitter.com/viniciusgsouza" },
+    { instagram = "https://instagram.com/viniciusgsouza" },
+    # { facebook = "https://facebook.com/" },
+    # { linkedin = "https://linkedin.com/" },
+    { email = "mailto:vinicius.souza@im.ufal.br"},
+    { youtube = "https://youtube.com/viniciusgsouza" },
+  ]
